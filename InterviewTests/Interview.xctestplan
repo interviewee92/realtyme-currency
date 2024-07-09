@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "E7BA11D3-C9FC-445E-AF33-321C9ACCE29B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Interview.xcodeproj",
+      "identifier" : "7AC686DD27A55EAB00C3D11D",
+      "name" : "Interview"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Interview.xcodeproj",
+        "identifier" : "1EAE618E2C3AB33900373C5B",
+        "name" : "InterviewTests"
+      }
+    }
+  ],
+  "version" : 1
+}
