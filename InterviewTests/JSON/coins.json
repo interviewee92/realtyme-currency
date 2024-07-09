@@ -1,0 +1,30 @@
+[
+   {
+      "id":"bitcoin",
+      "symbol":"btc",
+      "name":"Bitcoin",
+      "image":"image",
+      "current_price":208342,
+      "market_cap":4101070701551,
+      "market_cap_rank":1,
+      "fully_diluted_valuation":4367337936988,
+      "total_volume":155284787953,
+      "high_24h":212592,
+      "low_24h":199520,
+      "price_change_24h":276.47,
+      "price_change_percentage_24h":0.13288,
+      "market_cap_change_24h":-3541959376.1518555,
+      "market_cap_change_percentage_24h":-0.08629,
+      "circulating_supply":19719675.0,
+      "total_supply":21000000.0,
+      "max_supply":21000000.0,
+      "ath":270832,
+      "ath_change_percentage":-23.06126,
+      "ath_date":"2024-03-14T07:10:36.635Z",
+      "atl":632.31,
+      "atl_change_percentage":32854.31935,
+      "atl_date":"2015-01-14T00:00:00.000Z",
+      "roi":null,
+      "last_updated":"2024-07-08T22:18:38.841Z"
+   }
+]
